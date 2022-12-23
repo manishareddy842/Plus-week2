@@ -1,0 +1,11 @@
+:root {
+    --background: purple;
+
+}
+
+.yoga {
+    background: var(--background);
+    display: block;
+    margin-left: 20px;
+
+}
